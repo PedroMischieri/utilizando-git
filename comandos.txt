@@ -13,3 +13,5 @@ git commit -m "salvando pq o ronan passou na segunda aula, aula de fazer commit"
 -> envia os commits para o github
 git push
 
+-> baixa a atualizaçao dos arquivos do git hub para uma pasta ja existente
+git pull
