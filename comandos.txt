@@ -9,3 +9,7 @@ git add .
 
 -> salva uma versao dos arquivos
 git commit -m "salvando pq o ronan passou na segunda aula, aula de fazer commit"
+
+-> envia os commits para o github
+git push
+
